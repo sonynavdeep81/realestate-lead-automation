@@ -18,4 +18,4 @@ Turn messy real-estate inquiry messages into clean CRM records **and** personali
 Make (orchestration) · OpenAI `gpt-4o-mini` (extraction + reply) · Airtable (CRM).
 
 ---
-*Built by Dr. Navdeep Singh. I set these up per business in a few days — see [`case-study.md`](case-study.md) or get in touch.*
+*Built by Dr. Navdeep Singh. I set these up per business in a few days — get in touch.*
