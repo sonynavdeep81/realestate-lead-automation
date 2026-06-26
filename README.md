@@ -9,15 +9,6 @@ Turn messy real-estate inquiry messages into clean CRM records **and** personali
 - **Solution:** Each incoming lead is read by an LLM, the key details are extracted into a clean record, logged to a CRM, and a warm, personalized reply is drafted automatically — the agent just reviews and sends.
 - **Result:** Every lead captured and answer-ready in seconds. Verified across multiple messy sample leads with **zero invented fields** on sparse inputs — no fake phone numbers, budgets, or emails.
 
-## The flow
-```
-Lead arrives (web form / email / message)
-   → LLM extracts clean structured details (name, contact, budget, location, intent…)
-   → logged as a CRM record
-   → LLM drafts a personalized reply
-   → ready for the agent to review & send
-```
-
 ## Why it's trustworthy
 - **No hallucination:** if a detail wasn't given, the field stays blank — it never invents data.
 - **Your data stays yours:** everything lives in the client's own CRM and LLM account; nothing is used for training.

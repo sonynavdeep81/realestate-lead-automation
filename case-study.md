@@ -6,7 +6,7 @@
 
 **Problem → Solution → Result**
 - **Problem:** Agents lose leads because messy inquiry messages don't get logged or answered fast.
-- **Solution:** Webhook → OpenAI `gpt-4o-mini` extracts structured fields → Airtable CRM row → OpenAI drafts a warm, personalized reply (Make orchestration, no-code).
+- **Solution:** Reads each lead, extracts the key details into a clean CRM record, and drafts a warm, personalized reply — automatically. The agent just reviews and sends.
 - **Result:** Every lead captured and answer-ready in seconds, hands-free. Verified on 4 sample leads — zero invented fields on sparse inputs (no fake phone/budget/email); honest blanks; data stays in the client's Airtable + OpenAI account, nothing used for training.
 
 **Stack:** Make · OpenAI `gpt-4o-mini` · Airtable
