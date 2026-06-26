@@ -15,7 +15,7 @@ Turn messy real-estate inquiry messages into clean CRM records **and** personali
 - **Cheap to run:** a few fractions of a cent per lead — API cost is negligible next to the value of a captured deal.
 
 ## Stack
-Make (orchestration) · OpenAI `gpt-4o-mini` (extraction + reply) · Airtable (CRM).
+Make (orchestration) · OpenAI (extraction + reply) · Airtable (CRM).
 
 ---
 *Built by Dr. Navdeep Singh. I set these up per business in a few days — get in touch.*
